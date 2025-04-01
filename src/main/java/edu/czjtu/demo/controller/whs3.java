@@ -1,4 +1,4 @@
 package edu.czjtu.demo.controller;
 
-public class whs {
+public class whs3 {
 }
