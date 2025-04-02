@@ -1,4 +1,4 @@
 package edu.czjtu.demo.controller;
 
-public class head {
+public class hrad {
 }
